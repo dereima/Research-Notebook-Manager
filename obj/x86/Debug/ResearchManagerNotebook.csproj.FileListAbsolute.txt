@@ -1,0 +1,15 @@
+C:\vs work\RMN\ResearchManagerNotebook\bin\Debug\ResearchManagerNotebook.exe
+C:\vs work\RMN\ResearchManagerNotebook\bin\Debug\ResearchManagerNotebook.pdb
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\MainWindow.baml
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\MainWindow.g.cs
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\App.g.cs
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook_MarkupCompile.cache
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook.g.resources
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook.Properties.Resources.resources
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook.exe
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook.pdb
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\MainPage.baml
+C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\MainPage.g.cs

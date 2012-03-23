@@ -1,0 +1,17 @@
+﻿<Page x:Class="ResearchManagerNotebook.MainPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="320" d:DesignWidth="240"
+	Title="Test">
+    
+    <Grid>
+        <ScrollViewer>
+            <StackPanel Name="stkCategories">
+                <Button Content="New Category" Name="btnNew" Click="btnNew_Click" Margin="12,12,12,0" />
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Page>

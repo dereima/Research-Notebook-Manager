@@ -1,0 +1,65 @@
+﻿<Window x:Class="ResearchManagerNotebook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Research Manager Notebook" Height="350" Width="525">
+    <Grid>
+        <!--<Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <GridSplitter Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" Width="4"/>-->
+        <Menu VerticalAlignment="Top"> 
+            <MenuItem Header="File">
+                <MenuItem Header="New Notebook"/>
+                <MenuItem Header="Open Notebook"/>
+                <MenuItem Header="Save"/>
+                <MenuItem Header="Save as..."/>
+                <MenuItem Header="Print"/>
+                <MenuItem Header="Quit" Name="btnQuit" Click="btnQuit_Click" />
+            </MenuItem>
+            <MenuItem Header="Edit">
+                <MenuItem Header="Edit Title"/>
+                <MenuItem Header="Cut"/>
+                <MenuItem Header="Copy"/>
+                <MenuItem Header="Paste"/>
+            </MenuItem>
+            <MenuItem Header="View">
+                <MenuItem Header="Sort">
+                    <MenuItem Header="Alphabetical"/>
+                    <MenuItem Header="Order"/>
+                </MenuItem>
+                <MenuItem Header="Set font color" IsEnabled="False">
+                    <MenuItem Header="Black"/>
+                    <MenuItem Header="Red"/>
+                    <MenuItem Header="Orange"/>
+                    <MenuItem Header="Yellow"/>
+                    <MenuItem Header="Green"/>
+                    <MenuItem Header="Blue"/>
+                    <MenuItem Header="Purple"/>
+                    <MenuItem Header="White"/>
+                </MenuItem>
+                <MenuItem Header="Set background color" IsEnabled="False">
+                    <MenuItem Header="Black"/>
+                    <MenuItem Header="Red"/>
+                    <MenuItem Header="Orange"/>
+                    <MenuItem Header="Yellow"/>
+                    <MenuItem Header="Green"/>
+                    <MenuItem Header="Blue"/>
+                    <MenuItem Header="Purple"/>
+                    <MenuItem Header="White"/>
+                </MenuItem>
+            </MenuItem>
+            <MenuItem Header="Search">
+                <MenuItem Header="Search by title"/>
+                <MenuItem Header="Search by Comment"/>
+            </MenuItem>
+            <MenuItem Header="Help">
+                <MenuItem Header="Get help"/>
+            </MenuItem>
+        </Menu>
+        <Frame Margin="0,27,0,0" Name="frameMainView" Source="MainPage.xaml" NavigationUIVisibility="Hidden" />
+    </Grid>
+</Window>
