@@ -13,3 +13,24 @@ C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook.exe
 C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\ResearchManagerNotebook.pdb
 C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\MainPage.baml
 C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\MainPage.g.cs
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook.exe
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook.pdb
+Z:\Documents\Research-Notebook-Manager\bin\Debug\ResearchManagerNotebook.exe
+Z:\Documents\Research-Notebook-Manager\bin\Debug\ResearchManagerNotebook.pdb
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\CategoryPage.baml
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\MainPage.baml
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\MainWindow.baml
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\NotePage.baml
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\CategoryPage.g.cs
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\MainPage.g.cs
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\MainWindow.g.cs
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\NotePage.g.cs
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\App.g.cs
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook_MarkupCompile.cache
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook.g.resources
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook.Properties.Resources.resources
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+\\vmware-host\Shared Folders\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook.exe
+\\vmware-host\Shared Folders\Documents\Research-Notebook-Manager\obj\x86\Debug\ResearchManagerNotebook.pdb

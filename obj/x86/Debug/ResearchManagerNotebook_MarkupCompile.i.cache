@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\
+\\vmware-host\Shared Folders\Documents\Research-Notebook-Manager\obj\x86\Debug\
 ResearchManagerNotebook
 none
 false
 DEBUG;TRACE
-C:\vs work\RMN\ResearchManagerNotebook\App.xaml
+\\vmware-host\Shared Folders\Documents\Research-Notebook-Manager\App.xaml
 4-2143966764
 
-9-1683575646
-12-1547151337
+13-64848440
+131531167313
 CategoryPage.xaml;MainPage.xaml;MainWindow.xaml;NotePage.xaml;
 
 False

@@ -60,6 +60,6 @@
                 <MenuItem Header="Get help"/>
             </MenuItem>
         </Menu>
-        <Frame Margin="0,27,0,0" Name="frameMainView" Source="MainPage.xaml" NavigationUIVisibility="Hidden" />
+        <Frame Margin="0,27,0,0" Name="frameMainView" Source="NotePage.xaml" NavigationUIVisibility="Hidden" />
     </Grid>
 </Window>

@@ -24,7 +24,7 @@
             <StackPanel HorizontalAlignment="Left" Margin="0,0,0,0" Name="stkCategories">
                 <!--_______________________Group Decsion______________________________-->
                 <!-- This check box is here as an example this should be empty if there's 
-                no categoriesor we can put as many in here as we need an just make them invisible-->
+                no categories or we can put as many in here as we need an just make them invisible-->
                 <CheckBox Content="Category 1" Margin="12,12,12,0"/>
             </StackPanel>
         </ScrollViewer>

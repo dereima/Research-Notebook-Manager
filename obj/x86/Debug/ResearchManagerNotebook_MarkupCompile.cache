@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\vs work\RMN\ResearchManagerNotebook\obj\x86\Debug\
+Z:\Documents\Research-Notebook-Manager\obj\x86\Debug\
 ResearchManagerNotebook
 none
 false
 DEBUG;TRACE
-C:\vs work\RMN\ResearchManagerNotebook\App.xaml
-2-1838575358
+Z:\Documents\Research-Notebook-Manager\App.xaml
+4-2143966764
 
-6-71010971
+8-125220603
 12-1547151337
-MainPage.xaml;MainWindow.xaml;
+CategoryPage.xaml;MainPage.xaml;MainWindow.xaml;NotePage.xaml;
 
 False
 
